@@ -1,0 +1,321 @@
+digraph G { bgcolor="white" 
+a0 [shape = "none", label=< 
+<TABLE border="0" cellspacing="2" cellpadding="5" bgcolor="white"> 
+<TR>
+<TD colspan="3" border="1" > Informacion de maquinas </TD> 
+</TR>
+<TR>
+<TD border="1" > Maquina </TD> 
+<TD border="1" > Pines </TD> 
+<TD border="1" > Elementos </TD> 
+</TR>
+<TR>
+<TD border="1">prueba</TD> 
+<TD border="1">5</TD> 
+<TD border="1">20</TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Pines </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > H </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > He </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Li </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Be </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > B </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > C </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > N </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > O </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > F </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ne </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Na </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Mg </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Al </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Si </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > P </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > S </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Cl </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ar </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > K </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ca </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Sc </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ti </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > V </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Cr </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Mn </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Fe </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Co </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ni </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Cu </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Zn </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ga </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ge </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > As </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Se </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Br </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Kr </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Rb </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Sr </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Y </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Zr </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Nb </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Mo </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Tc </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ru </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Rh </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Pd </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ag </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Cd </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > In </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Sn </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Sb </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Te </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > I </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Xe </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Cs </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ba </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > La </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ce </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Pr </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Nd </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Pm </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Sm </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Eu </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Gd </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Tb </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Dy </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ho </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Er </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Tm </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Yb </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Lu </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Hf </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ta </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > W </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Re </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Os </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ir </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Pt </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Au </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Hg </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Tl </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Pb </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Bi </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Po </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > At </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Rn </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Fr </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ra </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Ac </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Th </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Pa </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > U </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Np </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Pu </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Am </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Cm </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Bk </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Cf </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Es </TD> 
+</TR>
+<TR>
+<TD colspan="3" border="1" > Fm </TD> 
+</TR>
+</TABLE>>]; 
+}
